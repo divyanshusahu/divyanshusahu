@@ -4,6 +4,8 @@
 
 My interest lies in Full Stack Development and Information Security. I am a B.Tech graduate in Computer Science from the Indian Institute of Technology, Roorkee. I was a member of InfoSecIITR (a group of security enthusiasts from IIT Roorkee). I like participating in many Capture the Flag (CTF) events. During my free time, I love reading novels (preferably fiction).
 
+<img align="right" width="400" src="https://raw.githubusercontent.com/divyanshusahu/divyanshusahu/main/developer.gif" />
+
 ### About Me:
 
 - 🔭 I’m currently working on Nodejs, React, Python, Flask, JavaScript
