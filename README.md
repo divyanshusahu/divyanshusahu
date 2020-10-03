@@ -1,5 +1,11 @@
 ### Hi 👋, I'm Divyanshu Sahu
 
+### Connect me with:
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/divyan5hu)
+
+---
+
 - 🔭 I’m currently working on Nodejs, React, Python, Flask, JavaScript, AWS
 - 🌱 I’m currently learning React Native and GO
 - 👨🏻‍💻 Most of my projects are available on Github.
