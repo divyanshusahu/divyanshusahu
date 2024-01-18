@@ -22,4 +22,4 @@ My interest lies in Full Stack Development and Information Security. I am a B.Te
 [<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/divyanshu-sahu/)
 [<img align="left" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_divyanshusahu_/)
 
-<img src="./github-metrics.svg" />
+<img align="center" width="75%" src="./github-metrics.svg" />
