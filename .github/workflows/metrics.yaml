@@ -17,5 +17,6 @@ jobs:
                 committer_branch: main
                 committer_message: update ${filename}
                 output_condition: data-changed
+                config_display: columns
                 plugin_isocalendar: yes
                 plugin_isocalendar_duration: full-year
